@@ -8,5 +8,10 @@ namespace GitTest
 {
     internal class Class1
     {
+        void ausgeben ()
+        {
+            int i = 0;
+
+        }
     }
 }
